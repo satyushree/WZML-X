@@ -230,7 +230,7 @@
 - Clone this repo:
 
 ```
-git clone https://github.com/weebzone/WZML-X mirrorbot/ && cd mirrorbot
+git clone https://github.com/satyushree/WZML-X mirrorbot/ && cd mirrorbot
 ```
 
 - For Debian based distros
